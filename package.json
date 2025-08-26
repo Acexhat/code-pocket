@@ -1,10 +1,15 @@
 {
   "name": "codepocket",
   "displayName": "CodePocket",
+  "publisher": "Acexhat",
   "description": "Forget copy-paste chaos. Store and manage your code selections right inside VS Code",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Acexhat/code-pocket"
   },
   "categories": [
     "Other"
@@ -40,7 +45,7 @@
   "devDependencies": {
     "@types/mocha": "^10.0.10",
     "@types/node": "20.x",
-    "@types/vscode": "^1.103.0",
+    "@types/vscode": "^1.60.0",
     "@typescript-eslint/eslint-plugin": "^8.31.1",
     "@typescript-eslint/parser": "^8.31.1",
     "@vscode/test-cli": "^0.0.10",
