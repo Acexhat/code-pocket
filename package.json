@@ -3,7 +3,7 @@
   "displayName": "CodePocket",
   "publisher": "Acexhat",
   "description": "Forget copy-paste chaos. Store and manage your code selections right inside VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.60.0"
   },
